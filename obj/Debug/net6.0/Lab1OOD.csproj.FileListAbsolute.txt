@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\bin\Debug\net6.0\Lab1OOD.exe
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\bin\Debug\net6.0\Lab1OOD.deps.json
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\bin\Debug\net6.0\Lab1OOD.runtimeconfig.json
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\bin\Debug\net6.0\Lab1OOD.dll
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\bin\Debug\net6.0\Lab1OOD.pdb
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.dll
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\refint\Lab1OOD.dll
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.pdb
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\Lab1OOD.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Pulpit\Projects\Lab1OOD\obj\Debug\net6.0\ref\Lab1OOD.dll
